@@ -1,0 +1,46 @@
+*{
+    margin: auto 0;
+}
+
+h1{
+    color: #9D79BC;
+}
+
+label,td{
+    color:#1D265E;
+}
+
+h3,h4,h5,p{
+    color:#8ca0d7;
+}
+
+.btn{
+    background-color: #9D79BC ;
+    color:floralwhite;
+}
+
+.container{
+    background-color:floralwhite;
+}
+
+a{
+    color: #91C4F2;
+}
+
+a:hover{
+    color: #9D79BC;
+}
+
+.txt{
+    text-decoration: underline;
+}
+
+.message{
+    background-color: #9D79BC;
+    color: floralwhite;
+}
+
+.form-control,.form-check-input{
+    background-color:floralwhite;
+}
+
