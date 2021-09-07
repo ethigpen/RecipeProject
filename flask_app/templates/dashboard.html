@@ -9,10 +9,10 @@
     <title>Login and Registration</title>
 </head>
 <body class="container">
-    <h1>Welcome {{session['first_name']}}!</h1>
+    <h1 class="spctxt">Welcome {{session['first_name']}}!</h1>
     <a href="/recipes/new" class="btn">Create</a>
     <a href="/logout/user" class="btn">Logout</a>
-    <h4 class="mt-3">Current Recipes</h4>
+    <h4 class="mt-3 spctxt">Current Recipes</h4>
     <table class="table table-borderless">
         <thead>
             <tr>
